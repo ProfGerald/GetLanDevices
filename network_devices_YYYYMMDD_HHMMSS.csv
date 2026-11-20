@@ -1,0 +1,24 @@
+name,ip address,type,manufacturer,macadress,status
+Unknown,10.0.0.1,Unknown,Vantiva - Connected Home,70:13:01:05:F2:AB,active
+Unknown,10.0.0.10,Unknown,Amazon Technologies Inc.,00:71:47:FE:C9:33, Inactive
+Unknown,10.0.0.11,Smart TV / IoT,"Wush, Inc",D8:E7:43:2A:40:7B,active
+Unknown,10.0.0.13,Unknown,Amazon Technologies Inc.,28:73:F6:CE:F3:6B,active
+Unknown,10.0.0.14,Smart Home / IoT,Wyze Labs Inc,7C:78:B2:9F:7A:6C, Inactive
+Unknown,10.0.0.15,Unknown,Unknown Vendor,04:82:01:01:63:56,active
+host.docker.internal,10.0.0.21,This PC (Local Host),Unknown,N/A,active
+NPI2A95F9,10.0.0.32,Printer,Hewlett Packard,3C:52:82:2A:95:F9,active
+Unknown,10.0.0.38,Computer / Workstation,Dell Inc.,B8:CA:3A:AF:7F:0C, Inactive
+HPF7088E,10.0.0.59,Printer,Hewlett Packard,9C:7B:EF:F7:08:8E,active
+Unknown,10.0.0.62,Mobile / Modern Client (Private MAC),Randomized / Private MAC,12:BF:60:0E:FE:5B,active
+Unknown,10.0.0.70,Unknown,SimpliSafe,F8:51:28:C0:71:D8,active
+Unknown,10.0.0.76,Unknown,Amazon Technologies Inc.,18:74:2E:59:44:E3, Inactive
+Unknown,10.0.0.86,Smart Home / IoT,Wyze Labs Inc,D0:3F:27:93:4C:6D,active
+Unknown,10.0.0.99,Network Equipment,TP-Link Systems Inc,54:AF:97:F9:8A:F0,active
+Unknown,10.0.0.105,Mobile / Modern Client (Private MAC),Randomized / Private MAC,E6:C2:10:A2:07:54,active
+Unknown,10.0.0.111,Smart TV / IoT,"Wush, Inc",D8:E7:43:2C:17:D0,active
+Unknown,10.0.0.145,Smart TV / IoT,Earda Technologies co Ltd,68:B9:C2:12:D3:71,active
+Unknown,10.0.0.167,Network Equipment,TP-Link Systems Inc,54:AF:97:F9:B4:18,active
+Unknown,10.0.0.182,Smart Home / IoT,Wyze Labs Inc,D0:3F:27:93:40:91,active
+Unknown,10.0.0.194,Smart TV / IoT,Onkyo Technology K.K.,00:09:B0:15:8B:5D,active
+Unknown,10.0.0.197,Mobile / Modern Client (Private MAC),Randomized / Private MAC,12:BF:60:10:FB:55,active
+Unknown,10.0.0.243,Smart TV / IoT,"Vizio, Inc",00:BD:3E:1D:24:A1,active
